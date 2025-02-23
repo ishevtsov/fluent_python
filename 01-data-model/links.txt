@@ -1,0 +1,5 @@
+https://docs.python.org/3.10/library/string.html#format-string-syntax
+https://stackoverflow.com/questions/1436703/what-is-the-difference-between-str-and-repr
+https://docs.python.org/3/library/stdtypes.html#truth
+https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists
+https://docs.python.org/3/reference/datamodel.html
