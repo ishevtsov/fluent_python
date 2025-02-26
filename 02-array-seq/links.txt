@@ -1,0 +1,6 @@
+https://docs.python.org/3.10/whatsnew/3.10.html#pep-634-structural-pattern-matching
+https://pythontutor.com/
+https://www.fluentpython.com/extra/ordered-sequences-with-bisect/
+https://docs.python.org/3/howto/sorting.html
+https://docs.python.org/3/library/collections.html
+https://docs.python.org/3/reference/datamodel.html#objects-values-and-types
