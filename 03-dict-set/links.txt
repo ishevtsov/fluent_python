@@ -1,0 +1,4 @@
+https://docs.python.org/3/library/collections.html
+https://www.youtube.com/watch?v=66P5FMkWoVU
+https://pyvideo.org/pycon-us-2010/the-mighty-dictionary-55.html
+https://speakerdeck.com/ramalho/python-set-practice-at-pycon
