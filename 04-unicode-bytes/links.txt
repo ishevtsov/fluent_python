@@ -1,0 +1,4 @@
+https://nedbatchelder.com/text/unipain.html
+https://docs.python.org/3/howto/unicode.html
+https://lucumr.pocoo.org/2013/7/2/the-updated-guide-to-unicode/
+https://python-notes.curiousefficiency.org/en/latest/python3/binary_protocols.html
