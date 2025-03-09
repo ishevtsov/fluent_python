@@ -1,0 +1,2 @@
+https://realpython.com/python-data-classes/
+https://www.youtube.com/watch?v=T-TwcmT6Rcw
